@@ -1,0 +1,3 @@
+ class maxin2d{
+
+}
