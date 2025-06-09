@@ -21,8 +21,7 @@ class Solution {
                 return result;
             }
         }
-
-        // If no subarray is found
+        
         result.add(-1);
         return result;
     }
